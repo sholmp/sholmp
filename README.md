@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sholmp
-- 👀 I’m interested in Robots, AI, UI developedment (Qt)
+- 👀 I’m interested in Robots, AI, and UI developedment (Qt)
 - 🌱 I’m currently learning how to create a bot for sc2 using https://github.com/cpp-sc2/cpp-sc2
 
 <!---
